@@ -1,0 +1,575 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The time triumphant declaring in briefe, the ariual of our soueraigne liedge Lord, King Iames into England, his coronation at Westminster: together with his late royal progresse, from the Towre of London throúgh the Cittie, to his Highnes manor of White Hall. Shewing also, the varieties &amp; rarieties of al the sundry trophies or pageants, erected ... With a rehearsall of the King and Queenes late comming to the Exchaunge in London. By Gilbert Dugdale.</title>
+            <author>Dugdale, Gilbert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20916</idno>
+            <idno type="STC">STC 7292</idno>
+            <idno type="STC">ESTC S110914</idno>
+            <idno type="EEBO-CITATION">99846367</idno>
+            <idno type="PROQUEST">99846367</idno>
+            <idno type="VID">11329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 955:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The time triumphant declaring in briefe, the ariual of our soueraigne liedge Lord, King Iames into England, his coronation at Westminster: together with his late royal progresse, from the Towre of London throúgh the Cittie, to his Highnes manor of White Hall. Shewing also, the varieties &amp; rarieties of al the sundry trophies or pageants, erected ... With a rehearsall of the King and Queenes late comming to the Exchaunge in London. By Gilbert Dugdale.</title>
+                  <author>Dugdale, Gilbert.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. B[lower],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11329:1"/>
+            <pb facs="tcp:11329:1"/>
+            <p>
+               <hi>THE</hi> Time Triumphant</p>
+            <p>Declaring in briefe, the ariual of our S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>raigne liedge Lord, King IAMES into Engl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> His Coronation at Weſtminſter: Together with his late roya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>greſſe, from the Towre of London through the Cittie, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Highnes mannor of WhiteHall.</p>
+            <p>Shewing alſo, the Varieties &amp; Rarieti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>al the ſundry Trophies or Pageants, erected a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by the worthy Cittizens of the honorable Cittie of London: a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by certaine of other Nations, Namely, Italians, Dutch a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> French. With a rehearſall of the King and Queenes late <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comming to the Exchaunge in London.</p>
+            <p>By Gilbert Dugdale.</p>
+            <figure>
+               <p>IN DOMINO CONFIDO.</p>
+            </figure>
+            <p>¶ At London printed by R. B. 1604.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:11329:2"/>
+            <pb facs="tcp:11329:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Dedicatorie poem to the Trium<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of our moſt dreade and Soueraigne Lorde, King Iames.</head>
+            <l>HONOR attend thy gratious Maieſtie,</l>
+            <l>Bliſſe be her Partner, in thy Soueraigntie:</l>
+            <l>Though Dayes are yet young, olde Ioyes wil haſt<g ref="char:punc">▪</g>
+            </l>
+            <l>When fearefull times, are dateles, deade and gone<g ref="char:punc">▪</g>
+            </l>
+            <l>Thy gouerning hand, that neuer yet knew other<g ref="char:punc">▪</g>
+            </l>
+            <l>Then a Rulers equall ſuckt from thy faire Mother.</l>
+            <l>Whoſe carefull thoughtes, in thee by Gods commaunde,</l>
+            <l>Haſt from thy Childe-hoode, helde a happie hande.</l>
+            <l>By which fayre hand, Gods grace hath led thee hither,</l>
+            <l>To plant thy peace, plenty and grace together:</l>
+            <l>So as our Tryumphs, glorious be in ſhowe,</l>
+            <l>So Tryumph-like, Ioy may with quiet goe.</l>
+            <l>That both in one, and one both wayes may be,</l>
+            <l>A double Ioy, in this Solempnitie.</l>
+            <l>So Tryumph ſings this ſong of Ioy and Mirth,</l>
+            <l>King IAMES live happie, happieſt on the Earth:</l>
+            <l>That God all ſeeing, may ſo bleſſe thy Lande,</l>
+            <l>That ſeeing all, may all thy evils withſtande.</l>
+            <q>
+               <l>Death Spurneth,</l>
+               <l>Life ſtarteth:</l>
+               <bibl>By Eliza.</bibl>
+            </q>
+            <q>
+               <l>Life returneth,</l>
+               <l>Death departeth:</l>
+               <bibl>By K. Ia:</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:11329:3"/>
+            <head>The time Triumphant.</head>
+            <p>The refayners, inhabitants, both young and olde of that excellent order and gouerment, nothing of that giddie raſhnes as in times before they were accuſtomed to be, but all in one, and one in all, moſt worthely receiued the Imperiall name of <hi>King Iames,</hi> and fréely conſented to his Titles, as by the grace of God, of England Scotland, Fraunce &amp; Irelande, King Defender of &amp;c. The Day then generally knowne of his comming forwarte to the poſſeſſion of the Regall ſeate: let me tell you by the way the ioy was not ſo great in <hi>England,</hi> by the Engliſh to fetch him, as the ſorrowe was in <hi>Scotland</hi> of the Scots to leaue him, and that was more confounding to their Ioyes then the reſt, the part<g ref="char:EOLhyphen"/>ing betwixt his Quéene and him in the open ſtréete, in the full eye of all his ſubiects, who ſpent teares in aboundance to behold it, heare Eng<g ref="char:EOLhyphen"/>liſh and Scottiſh in one ſimpathy: Ioyned firſt in hartie affected loue, in ſigne whereof the flouds of their eyes drawne fro<g ref="char:cmbAbbrStroke">̄</g> their kind harts, conioyned there Amitie, and no doubt they that in kindnes being poſ<g ref="char:EOLhyphen"/>ſeſſed with one ioy: can wéepe togither, they wil now and at all times liue and die together: but to make haſt to the principall whereof this is part, towards <hi>England</hi> he comes, his Royal entertainment in <hi>Bar<g ref="char:EOLhyphen"/>wicke</hi> I néede not ſet downe both of the traine of <hi>England</hi> &amp; Souldiers there, yet I will tell you of a wiſe anſwere of the <hi>King</hi> to a queſtion propounded, when he entered in the town it rayned ſmal drops, where<g ref="char:EOLhyphen"/>by ſome things had hinderance, which ſhould have Royalizd, the time but his Grace gratiouſly being attended in his Chamber, on the ſud<g ref="char:EOLhyphen"/>den, looking from his window, might ſée the ſunne ſhine, one by of no ſmall account began to queſtion thus, I muſe why the temperate ſea<g ref="char:EOLhyphen"/>ſon was ſo quickly ouercaſt by a ſhower of raine, and now that raine ſo ouerthrowne by this ſunne-ſhine, it preſages ſomewhat ſure, the <hi>King</hi> ſmiling, no great matter quoth he, onely this imagine, the firſt faire ſhew of Weather, my proſperous ſetting forwards by Gods ſu<g ref="char:EOLhyphen"/>fferance. The latter ſhower, the vniuerſall teares of my Cuntrey, to leaue their King: and this ſuddaine Sun-ſhine the Ioy of <hi>Englande</hi> for my approach, which vndoubtedly it was ſo as it appeared, for the Coſt, Paynes &amp; loue of his Subiects was ſuch all the way from <hi>Bar<g ref="char:EOLhyphen"/>wicke</hi> to <hi>Yorke,</hi> from thence to <hi>Stamforde,</hi> from thence to <hi>Theobals,</hi> &amp; ſo to the Charter-houſe in <hi>London:</hi> where hee remayned for certaine dayes, and then he went to the Tower of <hi>London,</hi> and ſo ſeating his
+<pb facs="tcp:11329:3"/>moſt royall Perſon héere, as the like hath ſeldome binne, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euer will be againe to the worlds end to any mans immaginat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>Well heere he is happily planted &amp; hartely welcome, what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then? but his bleſſed Corronation, at which was no ſmall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> For had you ſeene him in progreſſe to it, as many did, when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Barge at <hi>White Hall,</hi> on <hi>S. Iames</hi> his day, ſuch was his ſalu<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the people, and theirs to him: but anon comes foorth <hi>England <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>umph,</hi> the worth of women, <hi>Anne</hi> Quéene of <hi>Englande,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wife to our moſt gratious <hi>King,</hi> whoſe father was a <hi>King,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther no leſſe, he a <hi>King,</hi> and whoſe huſband fower <hi>Kings</hi> in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> companied with louely Ladies the onely wed ſtarres of the w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> beautye and good graces following her deare Huſband to <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, with her ſeemely hayre downe trailing on her princely <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhoulders on which was a crownet of Gold ſhe ſo mildely ſal<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Subiectes that the women wéeping ripe cryed all in one vo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bleſſe the Royall <hi>Queene,</hi> welcome to <hi>England</hi> long to liue &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo, to <hi>Weſtminſter</hi> they went and tooke on them the Royalty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the compleat order of <hi>Coronation,</hi> and by a generall and fre<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> enioyd the rights of Royaltye and were inſeſt in honour, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maieſty, owners of Royaltie, and made the onely Commau<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> principalitie, the Triumph of that time I omitte, but let me London whoſe heartes were wilde Fire, and burned vnque<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in loue, to this Royall couple, and expreſſing her deſires <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heads togither, to ſolemnize in Triumph: that happy day wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>er of glory was daſht by the omnipotencie of Gods power, v<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tally viſitting the Cittie and land with a general viſitation: h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that time, taking thouſands to his mercye and laide their head <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that elſe in thieſe actions would haue held them hie, yet ſée a<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> newe loue of his Maieſtie, he noblie regarding the coſt toget<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there loues, and that there expectations ſhould goe currant, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when the full poſſeſſion of their Ioyes ſhould be, that was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>angery hand of God had workt the will of his, all commaund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>er when the Infection ceaſed, then ſhould the Triumph of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſolemnized to this conſent, coſt prepared and the Cittie with <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gers Marchants and others, erected Trophies of glory, Pag<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> that magnificence the like was neuer well the time appoin<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> his highnes would ſet forward, ſhould be in the holy time in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:11329:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyfull ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing time, when the ground in Triumph of the time ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike wiſe flouriſh in ample equipage, and ſhe no niggard of her pompe attires, hers in a gréene liuery Imbrodered with flowers of a thouſand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ullers diuers and ſundry, thus heauen and earth applaudes the Tri<g ref="char:EOLhyphen"/>umph of <hi>King Iames,</hi> &amp; mortals, al agree to make that hower famous. In the meane time, his grace together with his <hi>Queene</hi> and children, progreſt in the country, and dealt honours as freely to our Nation as their harts would, wiſh, as creating Knights of gentlemen, Lordes of Knights and Earles of Lords &amp; no doubt hereafter Dukes of Earles, I, and raiſed vp an honor to <hi>England,</hi> that to this day haue bin long in obliuion, which as now it is honorably liuing, ſo it will neuer die, I meane our noble knights of the Bath, young and gallant, worthy and valiant, nay ſee the beauty of our all kinde Soueraigne, not onely to the indifferent of worth, and the worthy of honor, did he freely deale a<g ref="char:EOLhyphen"/>bout thieſe cauſes: but to the meane gaue grace, as taking to him the late Lord ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mberlaines ſeruants now the <hi>Kings</hi> acters: the <hi>Queene</hi> taking to her the Earle of <hi>Worſters</hi> ſeruants that are now her acters, the Prince their ſonne <hi>Henry</hi> Prince of Wales full of hope, tooke to him the Earle of <hi>Nottingham</hi> his ſeruants who are now his acters, ſo that of Lords ſeruants they are now the ſeruants of the <hi>King Queene</hi> and <hi>Prince.</hi>
+            </p>
+            <p>But to returne againe to our time Triumphant, now the hower is come, and the day appointed the preperation of which is mightye, I and ſo great, as neither can my tongue tell or my pen ſet downe, yet to make a flouriſh of a flouriſh thus it was: our heretjcke <hi>King,</hi> hearing of the preparation to be great, aſwell to note the other thinges as that was deſirous priuately at his owne pleaſure to viſit them, and accom<g ref="char:EOLhyphen"/>panied with his <hi>Queene</hi> in his Coach, be came to the Exchange, there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſee for their recreation, and thinkeing to paſſe vnknowne, the wylie Multitude perceiuing ſomething, began with ſuch hurly burly, to run vp and downe with ſuch vnreuerent raſhnes, as the people of the Ex<g ref="char:EOLhyphen"/>change were glad to ſhut the ſtaire dores to kéepe them out, heare they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt the pleaſing ſight they might haue enioyde but for their raſhnes. when his Highnes had beheld the Marchantes from a Windowe all below in the walkes not thinking of his comming, whoſe preſence elſe would haue binne more, they like ſo many pictures ciuilly ſéeming all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are; ſtood ſilent, modeſtie commanding them ſo to doe, which ſight ſo
+<pb facs="tcp:11329:4"/>delighted the <hi>King</hi> that he greatly commended them ſaying: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neuer more delighted then ſeeing ſo many of diuers and ſundry ons ſo well ordred and ſo ciuill one with the other, but with all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mended the rudenes of the Multitude, who regardles of time <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſon will be ſo troubleſome.</p>
+            <p>And contrymen let me tell you this, if you hard what I h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> concerning that you would ſtake your feete to the Earth at ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ere you would runne ſo regardles vp and downe, ſay it is highne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſure to be priuate, as you may note by the order of his comming<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you then be publique and proclaime that which loue and duty c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lence too? this ſhe wes his loue to you, but your open ignorance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you will ſay perchance it is your loue, will you in loue preaſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Soueraigne thereby to offend him, your Soueraigne per<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſtake your loue, and punniſh it as an offence, but heare m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hereafter comes by you, doe as they doe in <hi>Scotland</hi> ſtand ſtill <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and vſe ſilence, ſo ſhall you cheriſh his viſitation and ſee him, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> once amongſt you, but I feare my counſell is but water turnd<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Tems it helps not.</p>
+            <p>But to our Solempnitie they couet the Citty and country, &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preparation to they day, the couet the order for the <hi>Kings</hi> perſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Cittie his welcome to it, and his quiet paſſe through the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the country they poſt vp to attend ſo that all are buſſed to thi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> nity and reaſon I trow being the day of Triumph ſo long <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> The Tower was emptye of his priſoners, and I beheld the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Walter <hi>Rawly,</hi> the late Lord <hi>Cobham,</hi> the late Lord <hi>Gray: M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> with others: convaid ſome to the Marſhalſies, others to the g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and others appointed paiſonres y<hi rend="sup">e</hi> Tower it ſelfe, prepared v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pompe as eye neuer ſawe, ſuch glory in the hangings, ſuch M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Ornaments of the chambers, &amp; ſuch neceſſarie prouiſton <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I beheld it I could no leſſe then ſay.</p>
+            <q>
+               <l>God giues KING IAMES the place,</l>
+               <l>And glory of the day:</l>
+               <l>As neuer King poſſeſt like place,</l>
+               <l>That came the Northen way:</l>
+               <l>And ſince the heauens will haue it ſo,</l>
+               <l>what liuing ſoule dares anſwere no.</l>
+            </q>
+            <p>Vpon the Thames the water workes for his entertainm
+<pb facs="tcp:11329:5"/>Mirraculus, and the Fire workes on the water paſſed pleaſing, as a Caſtell or fortreſſe builded on two barges ſeeing as a ſettled Forte in of an <hi>Iland,</hi> planted with much munition of defence: and two pinnaſes ready rigde armd likewiſe to aſſault the Caſtle that had you beheld the mannaging of that fight with onſet on the Caſtle, repulſe from the Caſtle and then the taking of it in, it was a ſhow worthy the ſight of many Princes: being there plaſt at y<hi rend="sup">e</hi> coſt of the Sincke-ports: where<g ref="char:EOLhyphen"/>at the <hi>King</hi> all pleaſd made anſwere that their loue was like the wilde Fire vnquenchable. And I pray God it may euer be ſo.</p>
+            <p>Well from the Tower he came: heare coſt was quite careles, de<g ref="char:EOLhyphen"/>ſire that was feareleſſe, and content flouriſht in aboundance: but ſo Royally attended as if the Gods had ſummond a Parliament &amp; were all in their ſteps of Triumph to <hi>Ioues</hi> high court. This worthy traine ending ſo Maieſtique a preſence and the companies of London, in their liueries, plaſt in ſtreete double raild for them, and the paſſingers, the Whiflers they in their coſtly ſuites and Chaines of Gold walking vp and downe not a conduit betwixt the Tower and Weſtminſter: but runnes Wine, drinke who wil, comming thus with his Royal aſſem<g ref="char:EOLhyphen"/>bly all ſo gallantly mounted, as the eie of man was amazed at y<hi rend="sup">e</hi> pomp. In <hi>Fanchurch ſtreet</hi> was erected a ſtately Trophie or Pageant, at the Citties Charge, on which ſtood ſuch a ſhow of workmanſhip and glo<g ref="char:EOLhyphen"/>rie as I neuer ſaw the like? top and top gallant whereon were ſhowes ſo imbrodered and ſet out, as the coſt was incomparable who ſpeaking ſpéeches to the <hi>King</hi> of that excellent eloquence and as while I liue I commend. The Cittie of London very rarely and artificially made, where no church, houſe nor place of note, but your eye might eaſilye find out, as the <hi>Exchange, Coleharber, Powles, Bowe Church, &amp;c.</hi>
+            </p>
+            <p>There alſo Saint <hi>George,</hi> and Saint <hi>Andrew,</hi> in compleat Armour, not in one combate &amp; fought for the victorie. but an old hermitt paſſing by, in an Dration: ioynd them hand in hand, and ſo for euer hath made them as one harte, to the ioy of the <hi>King,</hi> the delight of the Lords, and the vnſpeakeable comfort of the comminallty: Our gratious <hi>Queene Ann,</hi> milde and curteous plaſte in a Chariot, of excéeding beauty, did all the way ſo humbly and with mildenes, ſalute her ſubiects, neuer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eauing to bend her body to them, this way and that, that women and men in my ſight wept with ioy? The young hopeful <hi>Henry Fredericke,</hi> or <hi>Fredericke Henry?</hi> Prince of <hi>Wales,</hi> ſmiling as ouer-ioyde to the peo<g ref="char:EOLhyphen"/>ples
+<pb facs="tcp:11329:5"/>eternall comfort, ſalute them with many a bende, befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Lord Mayor</hi> of the Cittie, in a Crimſon Velnet gowne, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his in amiled golden Mace vpon his ſho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lder, vſherd the <hi>King</hi> and <hi>Prince,</hi> who bringing them to <hi>Temple-barre,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke his le<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> receiued many thankes, of the <hi>King</hi> and <hi>Queene,</hi> who was af<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the <hi>Aldermen</hi> &amp; <hi>Sheriffes,</hi> who came to guard him home, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glory of that ſhow paſt, the <hi>King</hi> and his traine paſt on throng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ous ſtréete, but their let me tell you I was not very neare, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eye it was ſuper excellent Iuſtice as I take it, attired in beat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holding a crowne in her hand guarded with Shalmes and C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whoſe noyſe was ſuch as if the Triumph had béene endles, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wiſe were on both ſides ſpéeches ſpoken, ſhowes appointed w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rall harmonies, of drums, trumpets, and muſique of all ſorte <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Italians</hi> ſpared no ſpending in that behalfe, at whoſe charge th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ous proſpect was ſo pompous and full of ſhow to the wonder <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beholder: both for the height. ſtrength &amp; quallitie, through it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and his traine paſt, and at the corner of the ſtréete ſtood me on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> man with a white beard, of the age of three-ſcore &amp; <hi>19.</hi> who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the change of <hi>4. Kings</hi> &amp; <hi>Queenes,</hi> &amp; now behold the Triump<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>5.</hi> which by his report excéeded all the reſt, wherefore as hope <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to behold the like, yet he would of his own accord, doe y<hi rend="sup">t</hi> whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhew his duty, and old loue, that was to ſpeake a fiue lines, y<hi rend="sup">t</hi> h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had made him, which lines were to this purpoſe, he himſelfe a gréene.</p>
+            <q>
+               <l>Peereles of honor, heare me ſpeake a word,</l>
+               <l>Thy welcom'd glory, and inthroan'd renowne:</l>
+               <l>Being in peace, of earthly pompe and State,</l>
+               <l>To furniſh forth, the beauties of thy crowne.</l>
+               <l>Age thus ſalutes thee, with a dawny pate,</l>
+               <l>Threeſcore and nineteene, is thy ſeruants yeares,</l>
+               <l>That hath beheld, thy prediſſeſtors foure,</l>
+               <l>All flouriſhing greene, whoſe deaths the Subiectes</l>
+               <l>Mingled with mine, did many times deplore:</l>
+               <l>But now againe, ſince that our ioyes are fiue,</l>
+               <l>Fiue hundreth welcomes, I doe giue my King,</l>
+               <l>And may thy change, to vs that be aliue,</l>
+               <l>Neuer be knowne, a fifth extreame to bring,</l>
+               <pb facs="tcp:11329:6"/>
+               <l>My honeſt hart, be patterne of the reſt.</l>
+               <l>Who euer praide, for them before now thee,</l>
+               <l>Both them and thine, of all ioy be poſſeſt,</l>
+               <l>Whoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> liuely preſence, we all bleſſe to ſee,</l>
+               <l>And ſo paſſe on God guide thee on thy way,</l>
+               <l>Olde Hinde concludes, hauing no more to ſay.</l>
+            </q>
+            <p>But the narrow way, and the preaſing multitude, ſo ouerſhadowd him, and the noyſe of the ſhowe, that oppertunitie was not fauourable to him, ſo that the <hi>King</hi> paſt by, yet noting his zeale I haue publique<g ref="char:EOLhyphen"/>ly imprinted it, that all his fellow Subiectes may ſée this olde mans forwardnes, who myſt of his purpoſe by the concourſe of people, beſide y<hi rend="sup">e</hi> 
+               <hi>King</hi> apointed no ſuch thing but at ſeueral ſtays &amp; appointed places.</p>
+            <p>Along Cornehill they trooped with great Mateſtie, but his highnes being right ouer the <hi>Exchange,</hi> ſmilde looking toward it, belike remem<g ref="char:EOLhyphen"/>bring his laſt being there, the grace of the Marchants, and the rude<g ref="char:EOLhyphen"/>nes of the multitude, &amp; caſting his eye vp to the third Trophie or Pag<g ref="char:EOLhyphen"/>ant, admirde it greatly, it was ſo goodly top and top many ſtories, and ſo hie as it ſéemd to fall forward: On the top you might behold the ſea Dolphins as droping from the clouds on the earth, or looking to be hold the <hi>King?</hi> pictures of great arte coſt and glory as a double ſhip that be<g ref="char:EOLhyphen"/>ing two: was ſo cunningly made as it ſéem'de but one, which figured <hi>Scotland</hi> and <hi>England</hi> in one, with the armes of both in one Scutchin, ſayling on two ſeas at once, heare was a ſpeech of wo<g ref="char:cmbAbbrStroke">̄</g>der deliuered too: but the glorie of this ſhow, was in my eye as a dreame, pleaſing to the affection, gorgeous and full of ioy, and ſo full of ſhow<g ref="char:punc">▪</g> and variety, that when I held down my head as wearyed with looking ſo hie, me thoght it was a griete to me to awaken ſo ſoone, but thus the <hi>Dutch</hi> &amp; <hi>French</hi> ſpared for no coſt, to gratifie our <hi>King,</hi> ſtll y<hi rend="sup">e</hi> ſtreets ſtood raild, and the Liueries of al y<hi rend="sup">e</hi> companies on both ſides guarding the way, &amp; the ſtro<g ref="char:cmbAbbrStroke">̄</g>g ſtreame of people violently ru<g ref="char:cmbAbbrStroke">̄</g>ning in y<hi rend="sup">e</hi> midſt toward Cheap-ſide, ther our Triumphant rides garniſht with troups of royalty, &amp; gallant per<g ref="char:EOLhyphen"/>ſonages, &amp; paſſing by the great cundyt on the top thereof, ſtood a pren<g ref="char:EOLhyphen"/>tiſe in a black coate, a flat cap ſeruant like, as walking before his Mai<g ref="char:EOLhyphen"/>ſters ſhop, now whether he ſpake this or no, I heard not it, but y<hi rend="sup">e</hi> man<g ref="char:EOLhyphen"/>ner of his ſpéech was this, comming to me at the <hi>3.</hi> or ſecond hand.</p>
+            <p>What lack yon gentleman? what wil you buy? <hi>Silkes, Sattens, Ta<g ref="char:EOLhyphen"/>ffaties &amp;c</hi>
+            </p>
+            <pb facs="tcp:11329:6"/>
+            <q>
+               <lg>
+                  <l>But ſtay bold tonge, ſtand at a giddie gaze,</l>
+                  <l>Be dim mine eyes, what gallant traine are heare:</l>
+                  <l>That ſtrikes mindes mute, and puts good wits in maz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>O tis our KING, Royall KI<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>G IAMES I ſay:</l>
+               </lg>
+               <lg>
+                  <l>Paſſe on in peace, and happy be thy way,</l>
+                  <l>Liue long on Earth, Englands great Crowne to ſw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thy Cittie gratious King, admires thy fame,</l>
+                  <l>And on their knees, prayes for thy happy ſtate:</l>
+                  <l>Our women for thy Queene ANN whoſe rich name,</l>
+                  <l>Is their created bliſſe, and ſprong of late:</l>
+               </lg>
+               <lg>
+                  <l>If womens wiſhes, may preuaile thus being.</l>
+                  <l>They wiſh you both long liues, and good agreeit</l>
+               </lg>
+               <lg>
+                  <l>Children for Children, pray before they eate,</l>
+                  <l>At their vpriſing, and their lying downe:</l>
+                  <l>Thy ſonnes and daughters, princely all compleat,</l>
+                  <l>Roy all in bloud, children of high Renowne.</l>
+               </lg>
+               <lg>
+                  <l>But generally, togither they incline,</l>
+                  <l>Praying in one, great King for thee and thine.</l>
+               </lg>
+            </q>
+            <p>Whether he were appointed, or of his owne accord I know howſoeuer forward loue is acceptable, and I would the <hi>King</hi> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, but the ſight of the Trophie at Soper-lane ende, made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more forward: there was coſt both curious and comely, but the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of that a farre off I could not coniecture: but by report it was ex<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it made no huge high ſhow like the other, but as pompous both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rie &amp; matter a ſtage ſtanding by, on which were enacted ſtrang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after which an Oration deliuered of great wiſedome, both the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Pagant were deckt gallantly, and furniſht as all the bro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as the <hi>King</hi> paſt ſhewd like a paradice but heare his grace mi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> loue of his Subiects, who at that time are excéeding in the ſho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing by the croſſe beutifully guilded and adorned, there the recor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Aldermen on a ſcaffold, deliuered him a gallant Oration: and a cup of beaten gold, ſo he paſt on to y<hi rend="sup">e</hi> pagant at y<hi rend="sup">e</hi> litle conduit <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tificial indéede, of no exceeding height, but prety &amp; pleaſing in y<hi rend="sup">e</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of an arbor, wherein were placed all manner of wood inhabita<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uers ſhows of Admiration, as Pompions, Poungarnets, &amp; all fruit, which y<hi rend="sup">e</hi> Lords highly co<g ref="char:cmbAbbrStroke">̄</g>mended where after ſtrange mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath giuen plenty of harmony: he paſſed towards <hi>Fleete-ſtreet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:11329:7"/>Ludgat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> where the cunduits dealt ſo plenteouſly both before &amp; after he was paſt, as many were ſhipt to the Ile of ſléepe, that had no leaſurs for ſnorting to behold y<hi rend="sup">e</hi> days Triumph: when he came to y<hi rend="sup">e</hi> Trophie in <hi>Fleeteſtreete</hi> y<hi rend="sup">e</hi> Lords conſidered y<hi rend="sup">t</hi> the ſame for Royalty was ſo rich<g ref="char:EOLunhyphen"/>ly beautified, &amp; ſo plenteous of ſhow, that with the bredth of the ſtreete it ſéemed to them to haue gone back againe, and where but then at the croſſe in Cheape but otherwiſe ſaluted, as with varietye of ſpéeches, &amp; all ſundry ſorts of Mvſiques by y<hi rend="sup">e</hi> Cittie, appoinied two as y<hi rend="sup">t</hi> at y<hi rend="sup">e</hi> little Cunduit, &amp; all elſe but y<hi rend="sup">e</hi> 
+               <hi>Exchange</hi> &amp; gratious ſtreet, on y<hi rend="sup">e</hi> top of this pa<g ref="char:EOLhyphen"/>geant was placed a <hi>Globe,</hi> of a goodly preperation this whil wondring at y<hi rend="sup">e</hi> glory of it, ſetting on vnawares were they on y<hi rend="sup">e</hi> Pageant at <hi>Tem<g ref="char:EOLhyphen"/>plebarre,</hi> neither great nor ſmal but finely furniſht, ſome compared it to an Exchange ſhop, it ſhined ſo in y<hi rend="sup">e</hi> dark place &amp; was ſo pleaſing to y<hi rend="sup">e</hi> eie: where one a yongman an Acter of y<hi rend="sup">e</hi> Cittie ſo deliuered his mind &amp; the manner of all in an Oration y<hi rend="sup">t</hi> a thouſand giue him his due deſeruing commendations.</p>
+            <p>In y<hi rend="sup">e</hi> 
+               <hi>Strand</hi> was alſo an other of ſmal motion, a piramides fitly beſée<g ref="char:EOLhyphen"/>ming time &amp; place, but y<hi rend="sup">e</hi> day far ſpent &amp; the <hi>King</hi> &amp; States I am ſure wearied with y<hi rend="sup">e</hi> ſhows as the ſtomack may glutto<g ref="char:cmbAbbrStroke">̄</g>, the daintieſt courts ſtaid not long, but paſſed forward to y<hi rend="sup">e</hi> place appointed: when I leaue them to Gods protection &amp; their owne pleaſures. Thus you haue hard a ſhort deſcription of this dayes progreſſe, in which all the Peares and Lords of England &amp; part of Scotland were aſſembled, to beautifie the Triumphs of their moſt gracious <hi>King.</hi> The multitude of people at this preſent were innumerable: but to conclude God be thanked, for it, ſuch was the great care of the worſhipfull Cittizens of London, &amp; al things ſo prouidently foreſéene, by them, that little or no hurt or daun<g ref="char:EOLhyphen"/>ger enſued to any: which was greatly feared of many, to haue hapned: by reaſon of the great multitudes that were in the Cittie, being come both farre &amp; néere thither, to ſée this moſt glorious &amp; happy ſhow. And I beſéech the Al<g ref="char:EOLhyphen"/>mighty God of his infinite mercy and goodnes, ſo kéepe our <hi>King Queene</hi> and <hi>Prince,</hi> and all their princely progenie, y<hi rend="sup">t</hi> no harm neuer come neere them, nor touch the<g ref="char:cmbAbbrStroke">̄</g>, but y<hi rend="sup">t</hi> they may euer liue to his gret glory &amp; to maintaine his muſt glorious Goſpell for euermore. Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:11329:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
